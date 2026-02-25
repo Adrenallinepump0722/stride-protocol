@@ -1,5 +1,5 @@
 # strid3-protocol
-Onchain engagement and reputation infrastructure for communities
+Onchain contribution and reputation infrastructure for communities
 # Strid3
 Strid3 is an onchain engagement and reputation infrastructure that enables communities to track contributions, reward participation, and build long-term onchain reputation.
 
